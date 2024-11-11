@@ -16,7 +16,9 @@ coming soon
 GNU/Linux:
 
 Debian/Ubuntu : `sudo apt install python3`, for pip `sudo apt install python3-pip`
+
 Arch : `sudo pacman -S install python3`, for pip `sudo pacman -S install python-pip`
+
 RedHat : `sudo dnf install python3`, for pip `sudo dnf install python3-pip`
 
 -----------------------------------------------------------------------------
