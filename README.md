@@ -10,8 +10,7 @@ when pip is installed install PyQt5
 
 -----------------------------------------------------------------------------
 
-Windows and macOS:
-coming soon
+Windows and macOS: find them online
 
 GNU/Linux:
 
